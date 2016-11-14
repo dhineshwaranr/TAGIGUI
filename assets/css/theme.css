@@ -1,0 +1,57 @@
+/*!
+ * theme v0.0.1
+ * Color and Fonts
+ */
+body{  
+  color: #000;
+  background: #f6f6f6;
+  font-family: "Gotham", serif;
+}
+
+h1, h2, h3, h4, h5, h6, .tl-wrap, .tl-date, .create-options{
+  font-family: 'Gotham Book';
+}
+
+/* Navbar */
+.nav-sidebar > li > a {
+  font-family: 'Gotham Book';
+}
+.nav-sidebar > .active > a,
+.nav-sidebar > .active > a:hover,
+.nav-sidebar > .active > a:focus {
+  color: #fff;
+  background-color: #1477b6;
+}
+.nav>li>a:focus, .nav>li>a:hover{
+  background-color: #2f80c5;
+}
+/* Material Desing */
+.mdl-button--fab.mdl-button--colored{
+  color: #fff;
+  background-color: #f39b3e;  
+}
+.mdl-button--fab.mdl-button--colored:hover{
+  background-color: #f39b3e;
+}
+/* Footer */
+footer a{
+  font-family: 'Gotham';  
+  font-weight: 300;
+  color: #999999;
+}
+footer a:hover{
+  color: #000;
+}
+/* Calender */
+.picker__date-display {
+  background-color: #2387d6;
+}
+.picker__weekday-display {
+  background-color: #2196F3;
+}
+.picker__close, .picker__today{
+  color: #2387d6;
+}
+.picker__nav--prev:hover, .picker__nav--next:hover{
+  background: #b7d8f3;
+}

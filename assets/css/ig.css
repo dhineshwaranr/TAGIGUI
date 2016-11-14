@@ -1,0 +1,31 @@
+.topHooksContainer{
+	font-size:10px;
+	display: inline-block;
+	width:100%;
+}
+.headerHooks{
+	background :#e40046 !important;
+	color:white;
+}
+.headerTopHooks{
+	margin: 0px 35px 0px 35px;
+}
+
+.top-hooks-icon{
+	display: inline-flex;	
+}
+.top-hooks-icon{
+	
+}
+.topHooksContainer span{
+	padding: 5px 10px 0px 0px;
+}
+.topHooksContainer span a{
+	color:white;
+	text-decoration: none;
+}
+p span 
+{
+    display: block;
+    font-size: 10px;
+}
